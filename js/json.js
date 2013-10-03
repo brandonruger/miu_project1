@@ -1,6 +1,6 @@
 /* Brandon Ruger
- * Project 4
- * VFW 1308 */
+ * Project 1
+ * MiU 1310 */
 
 var json = {
     "reminder1": {
@@ -114,7 +114,7 @@ var json = {
     "reminder10": {
         "petname": ["Pet Name:", "Booster"],
         "petage": ["Pet Age:", "1"],
-        "pettype": ["Pet Type:", "dog"],
+        "pettype": ["Pet Type:", "ferret"],
         "flea": ["Flea:", "No"],
         "fleaRx": ["Flea Rx:", "Sprayon"],
         "heartworm": ["Heartworm:", "Heartworm Medication"],
