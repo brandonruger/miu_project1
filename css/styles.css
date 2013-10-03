@@ -22,6 +22,17 @@ h1 {
     
 }
 
+h2{
+    font-family: "Times New Roman";
+    color: white;
+    font: 10px "Times New Roman";
+    margin-bottom: 10px;
+    padding: 5px;
+    border: 1px solid white;
+    background-color: blue;
+    
+}
+
 legend {
     font: 20px "Times New Roman";
     color: white;
@@ -69,15 +80,15 @@ option {
 
 #button {
     height: 20px;
-    width: 120px;
+    width: 90px;
     background-color: red;
-    font: 8px "Arial";
+    font: 5px "Arial";
     color: white;
 }
 
 div img {
-    width: 180px;
-    height: 90px;
+    width: 200px;
+    height: 100px;
 }
 
 
