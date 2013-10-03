@@ -68,10 +68,16 @@ option {
 }
 
 #button {
-    margin-top: 10px;
+    height: 20px;
+    width: 120px;
     background-color: red;
-    font: 18px "Arial";
+    font: 8px "Arial";
     color: white;
+}
+
+div img {
+    width: 180px;
+    height: 90px;
 }
 
 
