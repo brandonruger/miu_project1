@@ -1,6 +1,6 @@
 /* Brandon Ruger
- * Project 4
- * VFW 1308 */
+ * Project 1
+ * MiU 1310 */
 
 window.addEventListener("DOMContentLoaded", function(){
     
